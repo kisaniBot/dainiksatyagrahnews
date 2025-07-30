@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<title>दैनिक सत्याग्रह न्यूज़</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body { font-family: Arial, sans-serif; background: #f2f2f2; color: #222; margin: 0; padding: 0; }
+header { background-color: #c62828; color: white; padding: 20px; text-align: center; }
+.news { padding: 20px; max-width: 800px; margin: auto; background: white; margin-top: 20px; box-shadow: 0 0 10px #ccc; }
+h1 { color: #c62828; }
+</style>
+</head>
+<body>
+<header>
+<h1>दैनिक सत्याग्रह न्यूज़</h1>
+<p>आपकी आवाज़, आपकी खबर</p>
+</header>
+
+<div class="news">
+<h2>कालू लोधी पर वन विभाग की कार्रवाई से उठे सवाल</h2>
+<p><strong>सिवनी मालवा:</strong> सर्पमित्र कालू लोधी पर हुई कार्रवाई से लोगों में गुस्सा है। वर्षों से जनसेवा कर रहे कालू को पकड़ने पर कई सवाल उठे हैं।</p>
+<p>स्थानीय लोगों ने प्रशासन को ज्ञापन सौंपा है और मांग की है कि उन्हें बिना किसी आरोप के रिहा किया जाए।</p>
+</div>
+</body>
+</html>
